@@ -1,0 +1,8 @@
+Package: SnowgemSwingWalletUI
+Version: 0.69
+Section: misc
+Priority: low
+Architecture: all
+Description: Snowgem Desktop GUI Wallet 
+Maintainer: ivan@vaklinov.com
+Depends: default-jdk, snowgem
