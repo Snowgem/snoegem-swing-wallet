@@ -1,6 +1,6 @@
-# Desktop GUI Wallet for [Snowgem](https://z.cash/)[®](#disclaimer)
+# Desktop GUI Wallet for [Snowgem](https://snowgem.org/)[®](#disclaimer)
 
-## Graphical user interface wrapper for the [Snowgem](https://z.cash/)[®](#disclaimer) command line tools
+## Graphical user interface wrapper for the [Snowgem](https://snowgem.org/)[®](#disclaimer) command line tools
 
 This program provides a Graphical User Interface (GUI) for the Snowgem client tools that acts as a wrapper and 
 presents the information in a user-friendly manner.
